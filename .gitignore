@@ -1,0 +1,6 @@
+.idea
+*pycache*
+test
+poetry.lock
+pyproject.toml
+/*.csv
